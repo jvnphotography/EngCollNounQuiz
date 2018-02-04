@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">English Collective Noun Quiz</string>
+    <string name="instructions">Willkommen beim englischen Collective Noun Quiz! In diesem Quiz beantworten Sie 10 Fragen von 50 möglichen Fragen. Wählen Sie für jede Frage die Option aus, die dem Kontext am ehesten entspricht. Viel Glück!</string>
+    <string name="score">"%s von 10, %s beantwortet "</string>
+    <string name="next">Nächster</string>
+    <string name="start">Anfang</string>
+    <string name="reset">Zurücksetzen</string>
+    <string name="subinstruction">Es gibt 8 Fragen in diesem Abschnitt. Wählen Sie die passende Antwort aus. Drücken Sie auf Weiter, um fortzufahren.</string>
+    <string name="question_here">Die Frage wird hier angezeigt.</string>
+    <string name="submit">Einreichen</string>
+    <string name="enter_answer">Gib die Antwort ein:</string>
+    <string name="score_here">Ihre Punktzahl wird hier angezeigt.</string>
+    <string name="subinstruction3">Es gibt 1 Frage in diesem Abschnitt. Geben Sie die richtige Antwort ein und drücken Sie Senden.</string>
+    <string name="subinstruction2">Es gibt 1 Frage in diesem Abschnitt. Wählen Sie die falschen Antworten aus und drücken Sie dann auf Weiter.</string>
+</resources>

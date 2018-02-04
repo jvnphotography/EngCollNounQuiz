@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0d47a1</color>
+    <color name="colorPrimaryDark">#283593</color>
+    <color name="colorAccent">#d50000</color>
+    <color name="background_material_light">#fafafa</color>
+    <color name="button_background">#616161</color>
+    <color name="button_wrong">#f44336</color>
+    <color name="text_highlight">#ff8a65</color>
+    <color name="button_correct">#00c853</color>
+    <color name="button_default">#616161</color>
+    <color name="radioCB_background">#fafafa</color>
+    <color name="text_main">#e3f2fd</color>
+    <color name="main_background">#41ffd6d6</color>
+</resources>

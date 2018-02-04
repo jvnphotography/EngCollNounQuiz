@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    tools:context="com.example.johan.engcollnounquiz.MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linear1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/instructions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:textColor="@color/text_main"
+            style="@style/TextShadow"
+            android:text="@string/instructions"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            android:freezesText="true" />
+
+        <TextView
+            android:id="@+id/subinstruction"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_marginTop="16dp"
+            android:textColor="@color/text_main"
+            style="@style/TextShadow"
+            android:text="@string/subinstruction"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            android:freezesText="true" />
+
+        <TextView
+            android:id="@+id/question1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_marginTop="16dp"
+            android:textColor="@color/text_main"
+            style="@style/TextShadow"
+            android:text="@string/question_here"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            android:freezesText="true" />
+
+        <LinearLayout
+            android:id="@+id/linear2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:layout_weight="0"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/linear2a"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/radio1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:onClick="checkRadioAnswer"
+                    android:textColor="@color/text_main"
+                    style="@style/TextShadow"
+                    android:text=""
+                    android:textAlignment="center"
+                    android:textSize="16sp"
+                    android:freezesText="true" />
+
+                <RadioButton
+                    android:id="@+id/radio2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:onClick="checkRadioAnswer"
+                    android:textColor="@color/text_main"
+                    style="@style/TextShadow"
+                    android:text=""
+                    android:textAlignment="center"
+                    android:textSize="16sp"
+                    android:freezesText="true" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/linear2b"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/radio3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:onClick="checkRadioAnswer"
+                    android:textColor="@color/text_main"
+                    style="@style/TextShadow"
+                    android:text=""
+                    android:textAlignment="center"
+                    android:textSize="16sp"
+                    android:freezesText="true" />
+
+                <RadioButton
+                    android:id="@+id/radio4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:onClick="checkRadioAnswer"
+                    android:textColor="@color/text_main"
+                    style="@style/TextShadow"
+                    android:text=""
+                    android:textAlignment="center"
+                    android:textSize="16sp"
+                    android:freezesText="true" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/relative1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:id="@+id/buttonNext1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:onClick="nextRadio"
+                    android:textColor="@color/text_main"
+                    android:background="@color/button_background"
+                    android:text="@string/next"
+                    android:textSize="16sp"
+                    android:freezesText="true" />
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/subinstruction2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="16dp"
+                android:textColor="@color/text_main"
+                style="@style/TextShadow"
+                android:text="@string/subinstruction2"
+                android:textAlignment="center"
+                android:textSize="16sp"
+                android:freezesText="true" />
+
+            <TextView
+                android:id="@+id/question2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="16dp"
+                android:textColor="@color/text_main"
+                style="@style/TextShadow"
+                android:text="@string/question_here"
+                android:textAlignment="center"
+                android:textSize="16sp"
+                android:freezesText="true" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/linear2c"
+                android:layout_marginTop="24dp"
+                android:orientation="horizontal">
+
+                <CheckBox
+                    android:id="@+id/check1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="@color/text_main"
+                    style="@style/TextShadow"
+                    android:text=""
+                    android:onClick="checkSingleCB"
+                    android:textAlignment="center"
+                    android:textSize="16sp"
+                    android:freezesText="true" />
+
+                <CheckBox
+                    android:id="@+id/check2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="@color/text_main"
+                    style="@style/TextShadow"
+                    android:text=""
+                    android:onClick="checkSingleCB"
+                    android:textAlignment="center"
+                    android:textSize="16sp"
+                    android:freezesText="true" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/linear2d"
+                android:orientation="horizontal">
+
+                <CheckBox
+                    android:id="@+id/check3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="@color/text_main"
+                    style="@style/TextShadow"
+                    android:text=""
+                    android:onClick="checkSingleCB"
+                    android:textAlignment="center"
+                    android:textSize="16sp"
+                    android:freezesText="true" />
+
+                <CheckBox
+                    android:id="@+id/check4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="@color/text_main"
+                    style="@style/TextShadow"
+                    android:text=""
+                    android:onClick="checkSingleCB"
+                    android:textAlignment="center"
+                    android:textSize="16sp"
+                    android:freezesText="true" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/relative2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:id="@+id/buttonNext2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:onClick="checkCBAnswers"
+                    android:textColor="@color/text_main"
+                    android:background="@color/button_background"
+                    android:text="@string/next"
+                    android:textSize="16sp"
+                    android:freezesText="true" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/subinstruction3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_marginTop="16dp"
+            android:textColor="@color/text_main"
+            style="@style/TextShadow"
+            android:text="@string/subinstruction3"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            android:freezesText="true" />
+
+        <TextView
+            android:id="@+id/question3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_marginTop="16dp"
+            android:textColor="@color/text_main"
+            style="@style/TextShadow"
+            android:text="@string/question_here"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            android:freezesText="true" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/linear3"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/text_answer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="4"
+                    android:textColor="@color/text_main"
+                    style="@style/TextShadow"
+                    android:hint="@string/enter_answer"
+                    android:textSize="16sp"
+                    android:freezesText="true" />
+
+                <Button
+                    android:id="@+id/buttonSubmit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="@color/text_main"
+                    android:background="@color/button_background"
+                    android:onClick="checkText"
+                    android:text="@string/submit"
+                    android:textSize="16sp"
+                    android:freezesText="true" />
+
+            </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:textAlignment="center"
+            android:id="@+id/score_text"
+            android:layout_marginTop="8dp"
+            android:textColor="@color/text_main"
+            android:text="@string/score_here"
+            android:freezesText="true" />
+
+        <RelativeLayout
+            android:id="@+id/relative3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp">
+
+            <Button
+                android:id="@+id/buttonReset"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:onClick="resetAll"
+                android:text="@string/reset"
+                android:textSize="16sp"
+                android:textColor="@color/text_main"
+                android:background="@color/button_background"
+                android:freezesText="true" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</ScrollView>
+

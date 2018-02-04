@@ -1,0 +1,174 @@
+<resources>
+    <string name="app_name" translatable="false">English Collective Noun Quiz</string>
+    <string name="instructions">
+        Welcome to the English Collective Noun Quiz!
+        In this quiz, you will answer 10 questions from a
+        possible 50. For each question, select the option
+        that most accurately fits the context.
+        \nGood luck!
+    </string>
+    <string name="question1" translatable="false">He looked up and saw a _______ of crows fly by.</string>
+    <string name="question2" translatable="false">Right after the early spring thaw, her vegetable garden was overrun by an ______ of caterpillars.
+</string>
+    <string name="question3" translatable="false">As he stared at the _______ of monitors, one face leapt out at him.
+</string>
+    <string name="question4" translatable="false">She had all kinds of figurines in her collection, including a quite large _______ of unicorns.
+</string>
+    <string name="question5" translatable="false">At his signal, the entire _______ of divers descended into the depths.
+</string>
+    <string name="question6" translatable="false">They found the _______ of weapons exactly where they had left it.
+</string>
+    <string name="question7" translatable="false">There was a _______ of monkeys blocking the entrance to the temple.
+</string>
+    <string name="question8" translatable="false">In this _______ of islands, Honshu is the biggest.
+</string>
+    <string name="question9" translatable="false">When they lifted the _______ of drawers, Henry lost his grip and it landed on his foot.
+</string>
+    <string name="question10" translatable="false">And so, the old lioness confronted the _______ of hyenas.
+</string>
+    <string name="question11" translatable="false">Thinking back, he couldn\'t quite remember how their _______ of friends had formed.
+</string>
+    <string name="question12" translatable="false">As night fell, the _______ of bats took to the sky.
+</string>
+    <string name="question13" translatable="false">Careful examination of the evidence revealed that the fires were started by a _______ of arsonists.
+</string>
+    <string name="question14" translatable="false">Even the ancients knew of this particular _______ of stars.
+</string>
+    <string name="question15" translatable="false">The _______ of onlookers parted to let the police through.
+</string>
+    <string name="question16" translatable="false">Even this _______ of thieves had its honour and its own rules.
+</string>
+    <string name="question17" translatable="false">The _______ of runners  were led by the Kenyan, last year\'s champion.
+</string>
+    <string name="question18" translatable="false">On top of everything, they desperately needed to perform maintenance on their _______ of vehicles.
+</string>
+    <string name="question19" translatable="false">Adding insult to injury, the old man\'s _______ of geese started to chase him.
+</string>
+    <string name="question20" translatable="false">Unfortunately for her, that _______ of bananas was unripe.
+</string>
+    <string name="question21" translatable="false">Their position was overrun by the _______ of savages.
+</string>
+    <string name="question22" translatable="false">This particular _______ of cockroaches was the densest he had ever seen.
+</string>
+    <string name="question23" translatable="false">As the _______ of butterflies fluttered by, she could see it was made up of many different species.
+</string>
+    <string name="question24" translatable="false">There, baking in the sun, was a particularly large _______ of lizards.
+</string>
+    <string name="question25" translatable="false">The _______ of kangaroos hopped by without taking notice of them.
+</string>
+    <string name="question26" translatable="false">She tried to ignore the writhing _______ of vipers at her feet.
+</string>
+    <string name="question27" translatable="false">The Egyptians had a surprisingly large _______ of gods.
+</string>
+    <string name="question28" translatable="false">As one, the whole _______ of owls opened their eyes.
+</string>
+    <string name="question29" translatable="false">He fervently wished he didn\'t have to deal with another _______ of dung ever again.
+</string>
+    <string name="question30" translatable="false">Just off the bow, a _______ of dolphins followed their progress.
+</string>
+    <string name="question31" translatable="false">The toothless female was pushed out of the _______ of lions.
+</string>
+    <string name="question32" translatable="false">He went into the night with only his bow and a _______ of arrows.
+</string>
+    <string name="question33" translatable="false">The group of logs turned out to be a _______ of alligators.
+</string>
+    <string name="question34" translatable="false">The _______ of coins was heavy in his hands.
+</string>
+    <string name="question35" translatable="false">He felt so giddy with excitement that he bought everyone a _______ of drinks.
+</string>
+    <string name="question36" translatable="false">Salivating with hunger, the bear followed the _______ of salmon as they made their way upstream.
+</string>
+    <string name="question37" translatable="false">The quiet of dawn was shattered by a _______ of gunfire.
+</string>
+    <string name="question38" translatable="false">A _______ of mosquitoes carried the new strain of malaria across the continent.
+</string>
+    <string name="question39" translatable="false">An impressive _______ of hummingbirds feasted on the nectar of the new blooms.
+</string>
+    <string name="question40" translatable="false">His inattention led to them having only a burnt _______ of sausages for dinner.
+</string>
+    <string name="question41" translatable="false">Using speed and cunning, the _______ of pickpockets gave the police the slip.
+</string>
+    <string name="question42" translatable="false">Whip them as he may, the drover just couldn\'t get the _______ of oxen to move.
+</string>
+    <string name="question43" translatable="false">That _______ of flamingos must have numbered in the thousands.
+</string>
+    <string name="question44" translatable="false">With the wind howling through the open door, the _______ of paratroopers jumped into the inky night.
+</string>
+    <string name="question45" translatable="false">Running across the clearing, was a _______ of giraffes.
+</string>
+    <string name="question46" translatable="false">Taking up their places, the _______ of minstrels started tuning their instruments.
+</string>
+    <string name="question47" translatable="false">No sooner had the lions left the remains of their kill, than the _______ of vultures descended upon it.
+</string>
+    <string name="question48" translatable="false">He was dumbfounded by the _______ of information at his fingertips.
+</string>
+    <string name="question49" translatable="false">Far in the distance, the patrol plane spotted the _______ of submarines.
+</string>
+    <string name="question50" translatable="false">For his trouble, she gave him a _______ of strawberries and a pint of cream.
+</string>
+
+    <string name="answer1" translatable="false">murder</string>
+    <string name="answer2" translatable="false">army</string>
+    <string name="answer3" translatable="false">bank</string>
+    <string name="answer4" translatable="false">glory</string>
+    <string name="answer5" translatable="false">bubble</string>
+    <string name="answer6" translatable="false">cache</string>
+    <string name="answer7" translatable="false">troop</string>
+    <string name="answer8" translatable="false">chain</string>
+    <string name="answer9" translatable="false">chest</string>
+    <string name="answer10" translatable="false">clan</string>
+    <string name="answer11" translatable="false">clique</string>
+    <string name="answer12" translatable="false">colony</string>
+    <string name="answer13" translatable="false">conflagration</string>
+    <string name="answer14" translatable="false">constellation</string>
+    <string name="answer15" translatable="false">crowd</string>
+    <string name="answer16" translatable="false">den</string>
+    <string name="answer17" translatable="false">field</string>
+    <string name="answer18" translatable="false">fleet</string>
+    <string name="answer19" translatable="false">gaggle</string>
+    <string name="answer20" translatable="false">hand</string>
+    <string name="answer21" translatable="false">horde</string>
+    <string name="answer22" translatable="false">intrusion</string>
+    <string name="answer23" translatable="false">kaleidoscope</string>
+    <string name="answer24" translatable="false">lounge</string>
+    <string name="answer25" translatable="false">mob</string>
+    <string name="answer26" translatable="false">nest</string>
+    <string name="answer27" translatable="false">pantheon</string>
+    <string name="answer28" translatable="false">parliament</string>
+    <string name="answer29" translatable="false">pile</string>
+    <string name="answer30" translatable="false">pod</string>
+    <string name="answer31" translatable="false">pride</string>
+    <string name="answer32" translatable="false">quiver</string>
+    <string name="answer33" translatable="false">raft</string>
+    <string name="answer34" translatable="false">roll</string>
+    <string name="answer35" translatable="false">round</string>
+    <string name="answer36" translatable="false">run</string>
+    <string name="answer37" translatable="false">salvo</string>
+    <string name="answer38" translatable="false">scourge</string>
+    <string name="answer39" translatable="false">shimmer</string>
+    <string name="answer40" translatable="false">sizzle</string>
+    <string name="answer41" translatable="false">snatch</string>
+    <string name="answer42" translatable="false">span</string>
+    <string name="answer43" translatable="false">stand</string>
+    <string name="answer44" translatable="false">stick</string>
+    <string name="answer45" translatable="false">tower</string>
+    <string name="answer46" translatable="false">troupe</string>
+    <string name="answer47" translatable="false">wake</string>
+    <string name="answer48" translatable="false">wealth</string>
+    <string name="answer49" translatable="false">wolfpack</string>
+    <string name="answer50" translatable="false">punnet</string>
+
+    <string name="score">%s out of 10, %s answered</string>
+    <string name="next">Next</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="submit">Submit</string>
+    <string name="blank" translatable="false"></string>
+    <string name="subinstruction">There are 8 questions in this section. Select the appropriate answer. Press next to advance.</string>
+    <string name="question_here">The question will be displayed here.</string>
+    <string name="subinstruction2">There is 1 question in this section. Select the incorrect answers, then press Next.</string>
+    <string name="subinstruction3">There is 1 question in this section. Type the correct answer, then press Submit.</string>
+    <string name="score_here">Your score will be displayed here.</string>
+    <string name="enter_answer">Enter answer:</string>
+
+</resources>

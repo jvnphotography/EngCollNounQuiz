@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">English Collective Noun Quiz</string>
+    <string name="instructions">Добро пожаловать в английскую коллективную викторину! В этом опросе вы ответите на 10 вопросов из возможных 50. Для каждого вопроса выберите вариант, который наиболее точно соответствует контексту. Удачи!</string>
+    <string name="score">%s из 10, %s ответили</string>
+    <string name="next">Далее</string>
+    <string name="start">"Начало "</string>
+    <string name="reset">Сброс</string>
+    <string name="subinstruction">В этом разделе есть 8 вопросов. Выберите соответствующий ответ. Нажмите кнопку «Далее».</string>
+    <string name="question_here">Вопрос будет отображаться здесь.</string>
+    <string name="submit">Отправить</string>
+    <string name="enter_answer">Введите ответ:</string>
+    <string name="score_here">Ваш счет будет отображаться здесь.</string>
+    <string name="subinstruction3">В этом разделе есть один вопрос. Введите правильный ответ и нажмите «Отправить».</string>
+    <string name="subinstruction2">В этом разделе есть один вопрос. Выберите неправильные ответы, затем нажмите «Далее».</string>
+</resources>

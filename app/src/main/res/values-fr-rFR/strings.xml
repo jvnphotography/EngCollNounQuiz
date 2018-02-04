@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">English Collective Noun Quiz</string>
+    <string name="start">Début</string>
+    <string name="next">Prochain</string>
+    <string name="reset">Réinitialiser</string>
+    <string name="score">"%s sur 10, %s répondu "</string>
+    <string name="instructions">"Bienvenue au Quiz Collectif Noun en anglais! Dans ce quiz, vous répondrez à 10 questions parmi 50 possibles. Pour chaque question, sélectionnez l'option qui correspond le mieux au contexte. Bonne chance! "</string>
+    <string name="subinstruction">Il y a 8 questions dans cette section. Sélectionnez la réponse appropriée Appuyez sur suivant pour avancer.</string>
+    <string name="question_here">La question sera affichée ici.</string>
+    <string name="submit">Soumettre</string>
+    <string name="enter_answer">Entrez la réponse:</string>
+    <string name="score_here">Votre score sera affiché ici.</string>
+    <string name="subinstruction3">Il y a une question dans cette section. Tapez la bonne réponse, puis appuyez sur Envoyer.</string>
+    <string name="subinstruction2">Il y a une question dans cette section. Sélectionnez les réponses incorrectes, puis appuyez sur Suivant.</string>
+</resources>
