@@ -26,7 +26,6 @@ public class MainActivity extends AppCompatActivity {
     int questionsTotal = 0;                 //*Keeps running total of questions
     int answerPosition = 0;                 //*Used to assign answer to radioButton/checkBox
     int currentQuestion = 0;                //*Marks current question/answer in array
-    int radioChecked;                       //*
     int picID;                              //*Saves ID for background drawable
     int[] questionsAsked = new int[SIZE];   //*Array of questions
     int[] answersArray = new int[SIZE];     //*Array of answers, matching questionsAsked
@@ -300,8 +299,6 @@ public class MainActivity extends AppCompatActivity {
         int wrongID;                                //*Int identifier; changes wrong button's colour
         int checkID;                                //*Int identifier; changes wrong button's colour
 
-        radioChecked = 1;                           //*Indicates checked
-
         radioName = "radio" + answerPosition;
         checkID = getResources().getIdentifier(radioName, "id", getPackageName());
 
@@ -507,7 +504,11 @@ public class MainActivity extends AppCompatActivity {
             for (int marker = 1; marker <=4; marker++) {
                 if (toggle == 1) {
 
-                    if (radioChecked == 1) {
+                    tempName = "radio" + marker;
+                    tempID = getResources().getIdentifier(tempName, "id", getPackageName());
+                    RadioButton tempRadio = (RadioButton) this.findViewById(tempID);
+
+                    if (tempRadio.isChecked()) {
                         return false;
                     }else {
                         skipped = true;
